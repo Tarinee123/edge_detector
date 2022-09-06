@@ -10,9 +10,6 @@
 ## Documentation 
 [doc](https://docs.google.com/document/d/e/2PACX-1vTVuOO8l_s6MKuflOv0uD2r3Vjrye9aZm6VAEMTtN8dwoYa5DUPlE204Ruh4xjls7nSdchVektV452N/pub)
 
-## Canny edge detection (python) repo
-[link](https://github.com/arnav-snowleo/canny-edge-detection-python)
-
 ## Dependencies
 
 The following packages were used for the development of this application.
